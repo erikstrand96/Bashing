@@ -1,0 +1,16 @@
+[Unit]
+Description=
+
+[Service]
+WorkingDirectory=
+ExecStart=
+Restart=
+# Restart service after 10 seconds if the dotnet service crashes:
+RestartSec=
+KillSignal=
+SyslogIdentifier=
+User=
+Environment=
+
+[Install]
+WantedBy=multi-user.target
