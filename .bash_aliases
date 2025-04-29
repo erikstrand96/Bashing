@@ -1,0 +1,12 @@
+alias dcu="docker compose up -d"
+alias dcd="docker compose down"
+alias editenv="rundll32.exe sysdm.cpl,EditEnvironmentVariables"
+alias gips="git push"
+alias gipl="git pull"
+alias gs="git status"
+alias kc="kubectl"
+alias tf="terraform"
+alias usrhome="cd path-to-user-home"
+alias rp="cd path-to-repos"
+alias pod='podman'
+alias podm='podman machine'
